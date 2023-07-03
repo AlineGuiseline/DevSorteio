@@ -1,4 +1,4 @@
-# DevSorteio 💰
+# DevSorteio 🎲
 
 >DevClub
 
