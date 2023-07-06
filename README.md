@@ -6,6 +6,8 @@ Projeto proposto na plataforma DevClub para treino da ferramenta Math.random(). 
 
 🔗 [Clique aqui para acessar](https://alineguiseline.github.io/dev-sorteio/)
 
+![Desktop](./assets/screen-capture.png)
+
 ## Tecnologias utilizadas
 - HTML  
 - CSS  
